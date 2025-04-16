@@ -63,5 +63,5 @@ cd RE-AL
 python -m venv .venv  
 source .venv/bin/activate  
 
-pip install -r requirements/core.txt  
-pip install -r requirements/audio.txt  
+pip install -r core.txt  
+pip install -r audio.txt  
