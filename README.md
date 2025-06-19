@@ -1,7 +1,8 @@
 # RE:AL (Real-time Expressive Audio Lyricism)  
 **A Framework for Neural Singing Voice Synthesis**  
 
-![RE:AL System Architecture](https://github.com/user-attachments/assets/63c9be21-49ac-4485-9d20-dd5fa5ff4a63)  
+![RE:AL System Architecture](https://github.com/user-attachments/assets/29fded19-aa6a-4047-9e7d-8b83bacc26d0)
+
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)  
